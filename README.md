@@ -1,3 +1,6 @@
+# Status: Resolved
+See https://github.com/serilog/serilog/issues/358
+
 # Steps to repro.
 
     PM>  Get-Project ConsoleApp | Install-Package Serilog.Extras.FSharp
