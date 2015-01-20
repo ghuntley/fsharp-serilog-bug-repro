@@ -1,6 +1,6 @@
 # Steps to repro.
 
-    PM>  Get-Project Library | Install-Package Serilog.Extras.FSharp
+    PM>  Get-Project ConsoleApp | Install-Package Serilog.Extras.FSharp
     Attempting to resolve dependency 'Serilog (= 1.4.128)'.
     'Serilog.Extras.FSharp 1.4.128' already installed.
     Adding 'Serilog 1.4.128' to ConsoleApp.
